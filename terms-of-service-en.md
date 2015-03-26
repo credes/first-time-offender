@@ -378,8 +378,8 @@ International Sale of Goods shall not apply to these Terms.
 
 The Services are operated and provided by:
 
-Perimeter of Wisdom, LLC \
-7202 Giles Road #4187 \
+Perimeter of Wisdom, LLC\
+7202 Giles Road #4187\
 La Vista, NE 68128
 
 <admin@first-time-offender.com>
