@@ -1,4 +1,4 @@
-Privacy Policy of **first-time-offender.com**
+Privacy Policy for **first-time-offender.com**
 =============================================
 
 This Application collects some Personal Data from its Users.
@@ -6,9 +6,11 @@ This Application collects some Personal Data from its Users.
 Data Controller and Owner
 -------------------------
 
-Credes, LLC — 3282 Saint Ignatius Pl., Santa Clara, CA 95051,
+Perimeter of Wisdom, LLC \
+7202 Giles Road #4187 \
+La Vista, NE 68128
 
-admin@first-time-offender.com
+<admin@first-time-offender.com>
 
 Types of Data collected
 -----------------------
