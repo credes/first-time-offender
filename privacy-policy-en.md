@@ -6,8 +6,8 @@ This Application collects some Personal Data from its Users.
 Data Controller and Owner
 -------------------------
 
-Perimeter of Wisdom, LLC \
-7202 Giles Road #4187 \
+Perimeter of Wisdom, LLC  
+7202 Giles Road #4187  
 La Vista, NE 68128
 
 <admin@first-time-offender.com>
