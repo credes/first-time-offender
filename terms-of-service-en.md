@@ -268,19 +268,19 @@ that may be payable.
 
 Your access to and use of the Services or any Content is at your own risk. You understand and agree
 that the Services are provided to you on an “AS IS” and “AS AVAILABLE” basis. Without limiting the
-foregoing, CREDES AND ITS PARTNERS DISCLAIM ANY REPRESENTATIONS, WARRANTIES AND CONDITIONS, EXPRESS
-OR IMPLIED, OF MERCHANTABILITY, MERCHANTABLE QUALITY, DURABILITY, FITNESS FOR A PARTICULAR PURPOSE,
-TITLE OR NON-INFRINGEMENT. We make no warranty and disclaim all responsibility and liability for the
-completeness, accuracy, availability, timeliness, security or reliability of the Services or any
-Content thereon. Perimeter of Wisdom will not be responsible or liable for any harm to your computer
-system, loss of data, or other harm that results from your access to or use of the Services, or any
-Content. You also agree that Perimeter of Wisdom has no responsibility or liability for the use of,
-or the failure to use, any Content and other communications maintained by the Services. We make no
-warranty that the Services will meet your requirements or be available on an uninterrupted, secure,
-or error-free basis. No advice or information, whether oral or written, obtained from FTO or through
-the Services, will create any warranty not expressly made herein. Perimeter of Wisdom may also in
-its discretion modify the features, availability, operation and/or look and feel of FTO from time to
-time without notice to our users.
+foregoing, PERIMETER OF WISDOM AND ITS PARTNERS DISCLAIM ANY REPRESENTATIONS, WARRANTIES AND
+CONDITIONS, EXPRESS OR IMPLIED, OF MERCHANTABILITY, MERCHANTABLE QUALITY, DURABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT. We make no warranty and disclaim all responsibility
+and liability for the completeness, accuracy, availability, timeliness, security or reliability of
+the Services or any Content thereon. Perimeter of Wisdom will not be responsible or liable for any
+harm to your computer system, loss of data, or other harm that results from your access to or use of
+the Services, or any Content. You also agree that Perimeter of Wisdom has no responsibility or
+liability for the use of, or the failure to use, any Content and other communications maintained by
+the Services. We make no warranty that the Services will meet your requirements or be available on
+an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written,
+obtained from FTO or through the Services, will create any warranty not expressly made herein.
+Perimeter of Wisdom may also in its discretion modify the features, availability, operation and/or
+look and feel of FTO from time to time without notice to our users.
 
 11. Links
 ---------
@@ -296,18 +296,18 @@ from, your use of any such websites or resources.
 12. Limitation of Liability
 ---------------------------
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, CREDES AND ITS SUBSIDIARIES, AFFILIATES,
-OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS (OTHER THAN CONTENT CONTRIBUTORS GRANTING
-LICENSES PURSUANT TO THESE TERMS) WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, OPPORTUNITY, DATA,
-USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY
-TO ACCESS OR USE THE SERVICES; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES,
-INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD
-PARTIES; (iii) ANY CONTENT OBTAINED FROM THE SERVICES; AND (iv) UNAUTHORIZED ACCESS, USE OR
-ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING
-WITHOUT LIMITATION NEGLIGENCE) OR ANY OTHER LEGAL THEORY, WHETHER OR NOT CREDES HAS BEEN INFORMED OF
-THE POSSIBILITY OF SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS
-ESSENTIAL PURPOSE.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PERIMETER OF WISDOM AND ITS SUBSIDIARIES,
+AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS (OTHER THAN CONTENT CONTRIBUTORS
+GRANTING LICENSES PURSUANT TO THESE TERMS) WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS,
+OPPORTUNITY, DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR
+USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON
+THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER
+USERS OR THIRD PARTIES; (iii) ANY CONTENT OBTAINED FROM THE SERVICES; AND (iv) UNAUTHORIZED ACCESS,
+USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT
+(INCLUDING WITHOUT LIMITATION NEGLIGENCE) OR ANY OTHER LEGAL THEORY, WHETHER OR NOT PERIMETER OF
+WISDOM HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS
+FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
 You agree that the liability of Perimeter of Wisdom, its officers, employees, affiliates, and
 agents, if any, arising out of any kind of legal claim (whether in contract, tort or otherwise) in
@@ -386,6 +386,6 @@ La Vista, NE 68128
 
 If you have any questions about these Terms, please contact us.
 
-   [documents]: https://github.com/perimeterofwisdom/first-time-offender
-   [privacy policy]: https://github.com/perimeterofwisdom/first-time-offender/blob/master/privacy-policy-en.md
-   [terms of service]: https://github.com/perimeterofwisdom/first-time-offender/blob/master/terms-of-service-en.md
+  [documents]: https://github.com/perimeterofwisdom/first-time-offender
+  [privacy policy]: https://github.com/perimeterofwisdom/first-time-offender/blob/master/privacy-policy-en.md
+  [terms of service]: https://github.com/perimeterofwisdom/first-time-offender/blob/master/terms-of-service-en.md
