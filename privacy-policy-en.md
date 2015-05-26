@@ -1,4 +1,4 @@
-Privacy Policy for **first-time-offender.com**
+Privacy Policy of **first-time-offender.com**
 =============================================
 
 This Application collects some Personal Data from its Users.
@@ -7,7 +7,7 @@ Data Controller and Owner
 -------------------------
 
 Perimeter of Wisdom, LLC  
-7202 Giles Road #4187  
+7202 Giles Rd.  
 La Vista, NE 68128
 
 <admin@first-time-offender.com>
@@ -68,10 +68,9 @@ The use of the collected Data
 -----------------------------
 
 The Data concerning the User is collected to allow the Owner to provide its services, as well as for
-the following purposes: Access to third party services’ accounts, Analytics, Backup saving and
-management, Commercial affiliation, Content performance and features testing (A/B testing), Handling
-payments, Hosting and backend infrastructure, Managing contacts and sending messages, Contacting the
-User, Infrastructure monitoring and Registration and authentication.
+the following purposes: Analytics, Handling payments, Hosting and backend infrastructure, Managing
+contacts and sending messages, Contacting the User, Managing support and contact requests,
+Infrastructure monitoring and Registration and authentication.
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
 
@@ -80,44 +79,10 @@ Detailed information on the processing of Personal Data
 
 Personal Data is collected for the following purposes and using the following services:
 
-### Access to third party services’ accounts
-
-These services allow this Application to access Data from your account on a third party service and
-perform actions with it.
-
-These services are not activated automatically, but require explicit authorization by the User.
-
-#### Access to the Google Drive account (Google)
-
-This service allows this Application to connect with the User’s account on Google Drive, provided by
-Google, Inc.
-
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
-
-Place of processing: USA – [Privacy Policy](https://support.google.com/drive/answer/2450387?hl=en)
-
-#### Access to the Dropbox account (Dropbox, Inc.)
-
-This service allows this Application to connect with the User’s account on Dropbox, provided by
-Dropbox, Inc.
-
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
-
-Place of processing: USA – [Privacy Policy](https://www.dropbox.com/privacy)
-
 ### Analytics
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can
 be used to keep track of User behavior.
-
-#### Facebook Ads conversion tracking (Facebook)
-
-Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects
-data from the Facebook advertising network with actions performed on this Application.
-
-Personal Data collected: Cookie and Usage data.
-
-Place of processing: USA – [Privacy Policy](https://www.facebook.com/about/privacy/)
 
 #### Google Analytics (Google)
 
@@ -133,47 +98,6 @@ Personal Data collected: Cookie and Usage data.
 Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt
 Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
-### Backup saving and management
-
-These services allow the Owner to save and manage backups of this Application on external servers
-managed by the service provider itself. The backups may include the source code and content as well
-as the data that the User provides to this Application.
-
-#### Backup on Dropbox (Dropbox, Inc.)
-
-Dropbox is a service to save and manage backups provided by Dropbox Inc.
-
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
-
-Place of processing: USA – [Privacy Policy](https://www.dropbox.com/privacy#privacy)
-
-#### Backup on Google Drive (Google)
-
-Google Drive is a service to save and manage backups provided by Google Inc.
-
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
-
-Place of processing: USA – [Privacy Policy](https://support.google.com/drive/answer/2450387?hl=en)
-
-### Commercial affiliation
-
-These services allow this Application to display advertisements for third party products or
-services. Ads can be displayed either as advertising links or as banners using various kinds of
-graphics.
-
-Clicks on the icon or banner posted on the Application are tracked by the third-party services
-listed below, and are shared with this Application.
-
-For details of which data are collected, please refer to the privacy policy of each service.
-
-#### ClickBank (Click Sales Inc.)
-
-ClickBank is a banner commercial affiliation service provided by Click Sales Inc.
-
-Personal Data collected: Cookie and Usage data.
-
-Place of processing: USA – [Privacy Policy](https://accounts.clickbank.com/privacy.html)
-
 ### Contacting the User
 
 #### Mailing List or Newsletter (This Application)
@@ -184,23 +108,6 @@ promotional nature concerning this Application. Your email address might also be
 as a result of signing up to this Application or after making a purchase.
 
 Personal Data collected: Email address, First Name and Last Name.
-
-### Content performance and features testing (A/B testing)
-
-The services contained in this section allow the Owner to track and analyze the User response
-concerning web traffic or behavior regarding changes to the structure, text or any other component
-of this Application.
-
-#### Google Website Optimizer (Google)
-
-Google Website Optimizer is an A/B testing service provided by Google Inc.
-
-Google may use Personal Data to contextualize and personalize the ads of its own advertising
-network.
-
-Personal Data collected: Cookie and Usage data.
-
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
 ### Handling payments
 
@@ -267,14 +174,6 @@ Personal Data collected: Email address.
 
 Place of processing: USA – [Privacy Policy](http://mailchimp.com/legal/privacy/)
 
-#### Freshdesk (Freshdesk Inc.)
-
-Freshdesk is a support and contact request management service provided by Freshdesk Inc.
-
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
-
-Place of processing: USA – [Privacy Policy](http://freshdesk.com/privacy)
-
 #### Mandrill (The Rocket Science Group, LLC.)
 
 Mandrill is an email address management and message sending service provided by The Rocket Science
@@ -283,6 +182,22 @@ Group, LLC.
 Personal Data collected: Email address and Usage data.
 
 Place of processing: USA – [Privacy Policy](http://mandrill.com/privacy/)
+
+### Managing support and contact requests
+
+These services allow this Application to manage support and contact requests received via email or
+by other means, such as the contact form.
+
+The Personal Data processed depend on the information provided by the User in the messages and the
+means used for communication (e.g. email address).
+
+#### Freshdesk (Freshdesk Inc.)
+
+Freshdesk is a support and contact request management service provided by Freshdesk Inc.
+
+Personal Data collected: Various types of Data as specified in the privacy policy of the service.
+
+Place of processing: USA – [Privacy Policy](http://freshdesk.com/privacy)
 
 ### Registration and authentication
 
@@ -444,3 +359,5 @@ under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive
 revised by Directive 2009/136/EC, on the subject of Cookies.
 
 This privacy policy relates solely to this Application.
+
+Latest update: May 26, 2015
