@@ -1,4 +1,4 @@
-Privacy Policy for **first-time-offender.com**
+Privacy Policy of **first-time-offender.com**
 =============================================
 
 This Application collects some Personal Data from its Users.
@@ -16,7 +16,8 @@ Types of Data collected
 -----------------------
 
 Among the types of Personal Data that this Application collects, by itself or through third parties,
-there are: Cookie, Usage data, Email address, First Name, Last Name and Password.
+there are: Cookies, Usage data, email address, first name, last name, password and geographic
+position.
 
 Other Personal Data collected may be described in other sections of this privacy policy or by
 dedicated explanation text contextually with the Data collection.
@@ -68,10 +69,10 @@ The use of the collected Data
 -----------------------------
 
 The Data concerning the User is collected to allow the Owner to provide its services, as well as for
-the following purposes: Access to third party services’ accounts, Analytics, Backup saving and
-management, Commercial affiliation, Content performance and features testing (A/B testing), Handling
-payments, Hosting and backend infrastructure, Managing contacts and sending messages, Contacting the
-User, Infrastructure monitoring and Registration and authentication.
+the following purposes: Analytics, Handling payments, Hosting and backend infrastructure, Managing
+contacts and sending messages, Contacting the User, Managing support and contact requests,
+Infrastructure monitoring, Registration and authentication, Backup saving and management and
+Location-based interactions.
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
 
@@ -80,46 +81,12 @@ Detailed information on the processing of Personal Data
 
 Personal Data is collected for the following purposes and using the following services:
 
-### Access to third party services’ accounts
-
-These services allow this Application to access Data from your account on a third party service and
-perform actions with it.
-
-These services are not activated automatically, but require explicit authorization by the User.
-
-#### Access to the Google Drive account (Google)
-
-This service allows this Application to connect with the User’s account on Google Drive, provided by
-Google, Inc.
-
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
-
-Place of processing: USA – [Privacy Policy](https://support.google.com/drive/answer/2450387?hl=en)
-
-#### Access to the Dropbox account (Dropbox, Inc.)
-
-This service allows this Application to connect with the User’s account on Dropbox, provided by
-Dropbox, Inc.
-
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
-
-Place of processing: USA – [Privacy Policy](https://www.dropbox.com/privacy)
-
 ### Analytics
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can
 be used to keep track of User behavior.
 
-#### Facebook Ads conversion tracking (Facebook)
-
-Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects
-data from the Facebook advertising network with actions performed on this Application.
-
-Personal Data collected: Cookie and Usage data.
-
-Place of processing: USA – [Privacy Policy](https://www.facebook.com/about/privacy/)
-
-#### Google Analytics (Google)
+#### Google Analytics (Google Inc.)
 
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the
 Data collected to track and examine the use of this Application, to prepare reports on its
@@ -128,51 +95,41 @@ activities and share them with other Google services.
 Google may use the Data collected to contextualize and personalize the ads of its own advertising
 network.
 
-Personal Data collected: Cookie and Usage data.
+Personal Data collected: Cookies and Usage data.
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt
-Out](http://tools.google.com/dlpage/gaoptout?hl=en)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt
+Out](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+#### Facebook Ads conversion tracking (Facebook, Inc.)
+
+Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects
+data from the Facebook advertising network with actions performed on this Application.
+
+Personal Data collected: Cookies and Usage data.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/)
 
 ### Backup saving and management
 
-These services allow the Owner to save and manage backups of this Application on external servers
-managed by the service provider itself. The backups may include the source code and content as well
-as the data that the User provides to this Application.
+This type of services allows the Owner to save and manage backups of this Application on external
+servers managed by the service provider itself. The backups may include the source code and content
+as well as the data that the User provides to this Application.
 
 #### Backup on Dropbox (Dropbox, Inc.)
 
 Dropbox is a service to save and manage backups provided by Dropbox Inc.
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-Place of processing: USA – [Privacy Policy](https://www.dropbox.com/privacy#privacy)
+Place of processing: US – [Privacy Policy](https://www.dropbox.com/privacy#privacy)
 
-#### Backup on Google Drive (Google)
+#### Backup on Google Drive (Google Inc.)
 
 Google Drive is a service to save and manage backups provided by Google Inc.
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-Place of processing: USA – [Privacy Policy](https://support.google.com/drive/answer/2450387?hl=en)
-
-### Commercial affiliation
-
-These services allow this Application to display advertisements for third party products or
-services. Ads can be displayed either as advertising links or as banners using various kinds of
-graphics.
-
-Clicks on the icon or banner posted on the Application are tracked by the third-party services
-listed below, and are shared with this Application.
-
-For details of which data are collected, please refer to the privacy policy of each service.
-
-#### ClickBank (Click Sales Inc.)
-
-ClickBank is a banner commercial affiliation service provided by Click Sales Inc.
-
-Personal Data collected: Cookie and Usage data.
-
-Place of processing: USA – [Privacy Policy](https://accounts.clickbank.com/privacy.html)
+Place of processing: US – [Privacy Policy](https://support.google.com/drive/answer/2450387?hl=en)
 
 ### Contacting the User
 
@@ -183,24 +140,7 @@ the contact list of those who may receive email messages containing information 
 promotional nature concerning this Application. Your email address might also be added to this list
 as a result of signing up to this Application or after making a purchase.
 
-Personal Data collected: Email address, First Name and Last Name.
-
-### Content performance and features testing (A/B testing)
-
-The services contained in this section allow the Owner to track and analyze the User response
-concerning web traffic or behavior regarding changes to the structure, text or any other component
-of this Application.
-
-#### Google Website Optimizer (Google)
-
-Google Website Optimizer is an A/B testing service provided by Google Inc.
-
-Google may use Personal Data to contextualize and personalize the ads of its own advertising
-network.
-
-Personal Data collected: Cookie and Usage data.
-
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Personal Data collected: email address, first name and last name.
 
 ### Handling payments
 
@@ -215,74 +155,106 @@ containing invoices or notifications concerning the payment.
 
 Stripe is a payment service provided by Stripe Inc.
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-Place of processing: USA – [Privacy Policy](https://stripe.com/terms/US)
+Place of processing: US – [Privacy Policy](https://stripe.com/terms/US)
 
 ### Hosting and backend infrastructure
 
-These services have the purpose of hosting data and files that enable this Application to run and be
-distributed as well as to provide a ready-made infrastructure to run specific features or parts of
-this Application. Some of these services work through geographically distributed servers, making it
-difficult to determine the actual location where the Personal Data are stored.
+This type of services has the purpose of hosting data and files that enable this Application to run
+and be distributed as well as to provide a ready-made infrastructure to run specific features or
+parts of this Application. Some of these services work through geographically distributed servers,
+making it difficult to determine the actual location where the Personal Data are stored.
 
 #### Amazon Web Services (Amazon)
 
 Amazon Web Services is a hosting service provided by Amazon.com Inc.
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-[Privacy Policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
+[Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
+
+#### Linode (Linode, LLC.)
+
+Linode is a hosting service provided by Linode, LLC.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+
+Place of processing: US – [Privacy Policy](https://www.linode.com/privacy)
 
 ### Infrastructure monitoring
 
-These services allow this Application to monitor the use and behavior of its components so its
-performance, operation, maintenance and troubleshooting can be improved.
+This type of services allows this Application to monitor the use and behavior of its components so
+its performance, operation, maintenance and troubleshooting can be improved.
 
-Which Personal Data are processed depends on the characteristics and mode of implementation of
-these services, whose function is to filter the activities of this Application.
+Which Personal Data are processed depends on the characteristics and mode of implementation of these
+services, whose function is to filter the activities of this Application.
 
 #### Pingdom (Pingdom AB)
 
 Pingdom is a monitoring service provided by Pingdom AB.
 
-Personal Data collected: Cookie and Usage data.
+Personal Data collected: Cookies and Usage data.
 
 Place of processing: Sweden – [Privacy Policy](https://www.pingdom.com/legal/privacy-policy/)
 
+#### New Relic (New Relic)
+
+New Relic is a monitoring service provided by New Relic Inc.
+
+The way New Relic is integrated means that it filters all traffic of this Application, i.e.,
+communication between the Application and the User’s browser or device, while also allowing
+analytical data on this Application to be collected.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+
+Place of processing: US – [Privacy Policy](https://newrelic.com/privacy)
+
+### Location-based interactions
+
+#### Geolocation (This Application)
+
+This Application may collect, use, and share User location Data in order to provide location-based
+services.
+
+Most browsers and devices provide tools to opt out from this feature by default. If explicit
+authorization has been provided, the User’s location data may be tracked by this Application.
+
+Personal Data collected: geographic position.
+
 ### Managing contacts and sending messages
 
-These services make it possible to manage a database of email contacts, phone contacts or any other
-contact information to communicate with the User.
+This type of services makes it possible to manage a database of email contacts, phone contacts or
+any other contact information to communicate with the User.
 
-These services may also collect data concerning the date and time when the message was viewed by
-the User, as well as when the User interacted with it, such as by clicking on links included in the
+These services may also collect data concerning the date and time when the message was viewed by the
+User, as well as when the User interacted with it, such as by clicking on links included in the
 message.
 
-#### Mailchimp (Mailchimp)
+#### MailChimp (The Rocket Science Group, LLC.)
 
-Mailchimp is an email address management and message sending service provided by Mailchimp Inc.
+MailChimp is an email address management and message sending service provided by The Rocket Science
+Group, LLC.
 
-Personal Data collected: Email address.
+Personal Data collected: email address.
 
-Place of processing: USA – [Privacy Policy](http://mailchimp.com/legal/privacy/)
+Place of processing: US – [Privacy Policy](https://mailchimp.com/legal/privacy/)
+
+### Managing support and contact requests
+
+This type of services allows this Application to manage support and contact requests received via
+email or by other means, such as the contact form.
+
+The Personal Data processed depend on the information provided by the User in the messages and the
+means used for communication (e.g. email address).
 
 #### Freshdesk (Freshdesk Inc.)
 
 Freshdesk is a support and contact request management service provided by Freshdesk Inc.
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-Place of processing: USA – [Privacy Policy](http://freshdesk.com/privacy)
-
-#### Mandrill (The Rocket Science Group, LLC.)
-
-Mandrill is an email address management and message sending service provided by The Rocket Science
-Group, LLC.
-
-Personal Data collected: Email address and Usage data.
-
-Place of processing: USA – [Privacy Policy](http://mandrill.com/privacy/)
+Place of processing: US – [Privacy Policy](https://freshdesk.com/privacy)
 
 ### Registration and authentication
 
@@ -290,43 +262,22 @@ By registering or authenticating, Users allow this Application to identify them 
 to dedicated services.
 
 Depending on what is described below, third parties may provide registration and authentication
-services.
-
-In this case, this Application will be able to access some Data, stored by these third party
-services, for registration or identification purposes.
+services. In this case, this Application will be able to access some Data, stored by these third
+party services, for registration or identification purposes.
 
 #### Direct registration (This Application)
 
 The User registers by filling out the registration form and providing the Personal Data directly to
 this Application.
 
-Personal Data collected: Email address, First Name, Last Name and Password.
+Personal Data collected: email address, first name, last name and password.
 
-Information about Cookies
--------------------------
+Cookie Policy
+-------------
 
-### Strictly necessary Cookies
-
-These Cookies are necessary for the proper functioning of this Application and are used to store
-sessions and preferences.
-
-#### PHPSESSID
-
-Used to store the User session and keep the User logged in.
-
-### Analytics
-
-These Cookies are necessary for the functioning of the services filed under the section ”Analytics”.
-
-#### \_ut\*, \_ga\*
-
-Google Analytics Cookies.
-
-Since the installation of third party Cookies and other tracking systems through the services used
-within this Application can not be technically controlled by the Owner, any specific references to
-Cookies and tracking systems installed by third parties are to be considered indicative. In order to
-obtain complete information, consult the privacy policy for the respective third party services
-listed in this document.
+This Application uses Cookies. To learn more and for a detailed cookie notice, you may consult the
+[Cookie
+Policy](//www.iubenda.com/private/privacy-policy/227116/cookie-policy "Cookie Policy").
 
 Additional information about Data collection and processing
 -----------------------------------------------------------
@@ -396,7 +347,7 @@ personal identification number.
 #### Usage Data
 
 Information collected automatically from this Application (or third party services employed in this
-Application ), which can include: the IP addresses or domain names of the computers utilized by the
+Application), which can include: the IP addresses or domain names of the computers utilized by the
 Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the
 request, the method utilized to submit the request to the server, the size of the file received in
 response, the numerical code indicating the status of the server’s answer (successful outcome,
@@ -409,7 +360,7 @@ User’s IT environment.
 #### User
 
 The individual using this Application, which must coincide with or be authorized by the Data
-Subject, to whom the Personal Data refer.
+Subject, to whom the Personal Data refers.
 
 #### Data Subject
 
@@ -433,7 +384,7 @@ otherwise specified, is the Owner of this Application.
 
 The hardware or software tool by which the Personal Data of the User is collected.
 
-#### Cookie
+#### Cookies
 
 Small piece of data stored in the User’s device.
 
@@ -444,3 +395,5 @@ under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive
 revised by Directive 2009/136/EC, on the subject of Cookies.
 
 This privacy policy relates solely to this Application.
+
+Latest update: March 11, 2016
